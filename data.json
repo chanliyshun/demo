@@ -1,0 +1,94 @@
+{
+  "home": {
+    "banner": [
+      {
+        "imgs": "http://car2.autoimg.cn/cardfs/product/g12/M07/04/84/1024x0_1_q87_autohomecar__wKgH4le1GbeAHixZAAYTEVo7YKg541.jpg",
+        "text": "奥迪A4L 2017款 Plus 40 TFSI 时尚型",
+        "logo": "http://car2.autoimg.cn/cardfs/brand/50/g16/M05/5B/78/autohomecar__wKgH11cVh1WADo76AAAK8dMrElU714.jpg",
+        "swiperAnimateEffect": "bounceInRight"
+      },
+      {
+        "imgs": "http://car2.autoimg.cn/cardfs/product/g18/M09/EF/86/1024x0_1_q87_autohomecar__wKgH2VemCWKAUbuBAAgh_dP5XIo352.jpg",
+        "text": "迈腾 2017款 380TSI DSG 旗舰型",
+        "logo": "http://car3.autoimg.cn/cardfs/brand/50/g23/M09/5B/8F/autohomecar__wKgFXFbCuGGAark9AAAOm8MlQDA537.jpg",
+        "swiperAnimateEffect": "shake"
+      },
+      {
+        "imgs": "http://car2.autoimg.cn/cardfs/product/g19/M04/2E/58/1024x0_1_q87_autohomecar__wKjBxFffsQWAc53sAAaUrPh-Ako480.jpg",
+        "text": "宝马3系 2017款 330i M运动型",
+        "logo": "http://car1.autoimg.cn/logo/brand/50/129302240087557500.jpg",
+        "swiperAnimateEffect": "zoomInLeft"
+      },
+      {
+        "imgs": "http://car2.autoimg.cn/cardfs/product/g6/M0D/CB/58/1024x0_1_q87_autohomecar__wKgHzVk6SKeAPvAFAAhl73MIKAQ351.jpg",
+        "text": "君威 2017款 28T 尊贵型",
+        "logo": "http://car1.autoimg.cn/logo/brand/50/130713021829044765.jpg",
+        "swiperAnimateEffect": "flip"
+      },
+      {
+        "imgs": "http://car2.autoimg.cn/cardfs/product/g15/M0C/18/93/1024x0_1_q87_autohomecar__wKjByFl4I2yAIdnZAAtQqiMMVLA012.jpg",
+        "text": "博瑞 2017款 1.8T 旗舰4G版",
+        "logo": "http://car0.autoimg.cn/logo/brand/50/130433276914270070.jpg",
+        "swiperAnimateEffect": "tada"
+      },
+      {
+        "imgs": "http://car3.autoimg.cn/cardfs/product/g20/M09/13/74/1024x0_1_q87_autohomecar__wKgFWVjKeP2AYsazAAjkU6vAxts350.jpg",
+        "text": "帕萨特 2017款 330TSI DSG领尊版",
+        "logo": "http://car3.autoimg.cn/cardfs/brand/50/g23/M09/5B/8F/autohomecar__wKgFXFbCuGGAark9AAAOm8MlQDA537.jpg",
+        "swiperAnimateEffect": "flipInX"
+      },
+      {
+        "imgs": "http://car2.autoimg.cn/cardfs/product/g15/M07/9A/AA/1024x0_1_q87_autohomecar__wKgH5VkTBLaADc22AAVxTjMHJY4759.jpg",
+        "text": "奔驰C级 2017款 改款 C 200 L 4MATIC 运动版",
+        "logo": "http://car2.autoimg.cn/cardfs/brand/50/g17/M05/73/21/autohomecar__wKjBxlgEi2OACNA1AAAN8O5z018868.jpg",
+        "swiperAnimateEffect": "bounceInUp"
+      },
+      {
+        "imgs": "http://car3.autoimg.cn/cardfs/product/g22/M13/E5/FB/1024x0_1_q87_autohomecar__wKgFVlbqvI6ACAclAAaszFkDxOI898.jpg",
+        "text": "雅阁 2016款 2.4L 智尊版",
+        "logo": "http://car0.autoimg.cn/logo/brand/50/129302239927557500.jpg",
+        "swiperAnimateEffect": "wobble"
+      },
+      {
+        "imgs": "http://car2.autoimg.cn/cardfs/product/g23/M01/07/0D/1024x0_1_q87_autohomecar__wKjBwFfJcJ6AbTkzAAKKy_DLD60316.jpg",
+        "text": "阿特兹 2017款 2.5L 蓝天尊崇版",
+        "logo": "http://car2.autoimg.cn/cardfs/brand/50/g21/M0A/3D/0F/autohomecar__wKgFWlayv-mAGTlxAAAPPAplX4Q748.jpg",
+        "swiperAnimateEffect": "bounceIn"
+      }
+    ]
+  },
+  "orderList": [
+    {
+      "fileList": [
+        {
+          "name": "A.jpeg",
+          "url": "https://fuss10.elemecdn.com/3/63/4e7f3a15429bfda99bce42a18cdd1jpeg.jpeg?imageMogr2/thumbnail/360x360/format/webp/quality/100"
+        },
+        {
+          "name": "B.jpeg",
+          "url": "https://fuss10.elemecdn.com/3/63/4e7f3a15429bfda99bce42a18cdd1jpeg.jpeg?imageMogr2/thumbnail/360x360/format/webp/quality/100"
+        }
+      ],
+      "input": "",
+      "optionsA": [
+        {
+          "value": "奥迪",
+          "label": "奥迪"
+        },
+        {
+          "value": "宝马",
+          "label": "宝马"
+        },
+        {
+          "value": "奔驰",
+          "label": "奔驰"
+        },
+        {
+          "value": "日产",
+          "label": "日产",
+          "disabled": true
+        }
+      ]
+    }
+  ]
+}
